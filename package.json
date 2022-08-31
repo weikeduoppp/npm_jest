@@ -26,7 +26,7 @@
     "dist",
     "/types/index.d.ts"
   ],
-  "repository": "",
+  "repository": "https://github.com/weikeduoppp/npm_jest",
   "devDependencies": {
     "jest": "27.5.1"
   }
